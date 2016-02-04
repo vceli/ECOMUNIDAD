@@ -1,0 +1,176 @@
+body{
+	font-family: "OpenSans-Light";
+}
+
+header{
+	position: fixed;
+	z-index: 1;
+	background-color: rgba(255,255,255,0.98);
+	width: 100%;
+}
+
+.logo{
+	width: 50%;
+	height: 50%;
+}
+
+nav li{
+	list-style: none;	
+	text-decoration: none;
+	display: inline-block;
+}
+
+.imagFondo{
+	background-image: url('../img/semilla.jpg');
+	height: 510px;
+	border: 1px solid red;
+
+	/*clip: rect(10px, 0, 0, 0);*/
+}
+
+.fila3{
+	background-color: #F2F2F2;
+	color: #4D4D52;
+	font-size: 14px;
+}
+
+.fila4 p, .fila6 p{
+	font-size: 14px;
+}
+
+.fila4 img{
+	width: 128px;
+    height: 128px
+}
+
+
+h3{
+	padding-top: 1%;
+}
+
+
+.imgMetodo{
+	background-image: url('../img/metodo.jpg');
+	height: 313px;
+}
+
+.fila5{
+	background-image: url('../img/fondo.jpg');
+	height: 313px;
+}
+
+.fila5 img{
+	width: 7%;
+	height: 7%;
+}
+
+.fila5 p{
+	font-size: 13px;
+}
+
+.fila7 p{
+	font-size: 12.5px;
+}
+
+.chicocas img{
+	width: 89%;
+	height: 344px;
+	margin-right: 32px;
+}
+
+
+.chica1{
+	width:30%;
+	/*object-fit: none;*/
+    border-radius: 151px;
+}
+
+.twitter{
+	width: 5%;
+	margin-left: 11px;
+}
+
+.fondoGris{
+	width: 75%;
+}
+
+.blog{
+	background-image: url("../img/fondo2.jpg");
+}
+
+.texto{
+	font-size: 13px;
+}
+
+.cuadroEnlaces{
+	border:1px solid white;
+}
+
+.raya{
+	border-right:1px solid white;
+}
+.enlaces{
+	width: 15%;
+}
+
+.fondoEnlaces{
+	padding-top: 72px;
+    padding-right: 70px;
+    padding-bottom: 72px;
+    padding-left: 70px;
+}
+
+.cuadroEnlaces h3{
+	font-weight: normal;
+	color:#F2F2F2;
+}
+
+.cuadroEnlaces a{
+	padding-left: 150px;
+}
+
+footer{
+	font-size: 13px;
+	padding-top: 64px;
+    padding-right: 70px;
+    padding-bottom: 70px;
+    padding-left: 70px;
+}
+
+
+/*.cuadroEnlaces{
+	border: 1px solid white;
+	display: inline-block;
+	width: 10%;
+	padding: 5%;
+}*/
+
+
+/*.email{
+	height: 26px;
+}
+*/
+
+
+/*.chica1{
+	border:1px solid blue;
+	width: 100%;
+	height: 285px;
+	overflow: hidden;/*dando dimensión a la div para recortar la imagen*/
+/*<section class="fila8">
+		<div class="container">
+			<div class="row">
+				<div class="col-6">
+					<div class="row chica1">
+						<h1>Equipo</h1>
+						<img src="img/fotos/equipo2.jpg">
+					</div>
+				</div>
+				<div class="col-6">
+					
+				</div>				
+			</div>
+			
+		</div>
+	</section>*/
+

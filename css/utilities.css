@@ -1,0 +1,216 @@
+/*Global*/
+*{
+	font-family: "OpenSans-Light" Helvetica;
+}
+
+@font-face{
+	font-family: OpenSans-Regular;
+	src: url(../fonts/Open/OpenSans-Regular.ttf);
+}
+@font-face{
+	font-family: OpenSans-Light;
+	src: url(../fonts/Open/OpenSans-Light.ttf);
+}
+@font-face{
+	font-family: OpenSans-Bold;
+	src: url(../fonts/Open/OpenSans-Bold.ttf);
+}
+
+/* Shortcuts */
+
+.pd-0 {
+	padding: 0;
+}
+.pt-5 {
+	padding-top: 5%;
+}
+.pt-10 {
+	padding-top: 10%;
+}
+.pb-5{
+	padding-bottom: 5%;
+}
+.pd-5 {
+	padding: 5%;
+}
+.pd-5-10{
+	padding: 5% 10%;
+}
+.mg-0{
+	margin: 0;
+}
+.w-100{
+	width: 100%;
+}
+.lh{
+	line-height: 1.5;
+}
+.text-bold{
+	font-weight: bold;
+}
+
+
+.text-bolder{
+	font-weight: bolder;
+}
+
+.text-center{
+	text-align: center;
+}
+.text-left{
+	text-align: left;
+}
+.text-right{
+	text-align: right;
+}
+.text-white{
+	color: white;
+}
+.text-gray{
+	color: rgb(83, 88, 95);
+}
+.text-blue{
+ color: #192951;
+}
+.a-none-decoration{
+	text-decoration: none;
+}
+.bg-gray{
+	background-color: #F2F2F2;
+}
+.bg-green{
+	background-color: #5E8039;
+}
+.bg-black{
+	background-color: #4D4D4D;
+}
+.text-gray{
+	color:#F2F2F2;
+}
+.text-black{
+	color: #4D4D4D;
+}
+.text-green{
+	color: #5E8039;
+}
+.text-white{
+	color:#fff;
+}
+.text-yellow{
+	color: #fac60e;
+}
+.bg-img-block{
+	background-size: cover;/*algunos lo  ponen 100%*/
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+/*Comienzo de la implementación*/
+.pdr-17{
+	padding-right: 17%;
+}
+
+.pdiz-17{
+	padding-left: 17%;
+}
+
+.texto-gray{
+	color: #4D4D52;	
+}
+
+.pb-4{
+	padding-bottom: 4%;
+}
+
+.pt-2{
+	padding-top: 2%;
+}
+
+.pt-4{
+	padding-top: 4%;
+}
+
+.pdr-6{
+	padding-right: 6%;
+}
+
+.pdiz-6{
+	padding-left: 6%;
+}
+
+.pdiz-4{
+	padding-left: 4%;
+}
+
+.pdr-7{
+	padding-right: 7%;
+}
+
+.pdiz-7{
+	padding-left: 7%;
+}
+
+.pdiz-4{
+	padding-left: 4%;
+}
+
+.pdr-9{
+	padding-right: 9%;
+}
+
+.pdiz-9{
+	padding-left: 9%;
+}
+
+.pb-10 {
+	padding-bottom: 10%;
+}
+
+.pb-25{
+	padding-bottom: 25%;
+}
+
+.pb-60{
+	padding-bottom: 60%;
+}
+
+.pdr-15{
+	padding-right: 15%;
+}
+
+.pdiz-15{
+	padding-left: 15%;
+}
+
+.pb-15{
+	padding-bottom: 15%;
+}
+
+
+.pb-7{
+	padding-bottom: 7%;
+}
+
+.pdiz-25{
+	padding-left: 25%;
+}
+
+.pdiz-13{
+	padding-left: 13%;	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.fila7 img{
+	width: 25%;
+}
